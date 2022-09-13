@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/72643996/189944258-0acb8769-f9fa-41e4-8d46-ea910eb9fbe3.png)
 ![image](https://user-images.githubusercontent.com/72643996/189944270-3f9fb6ab-741c-4e6b-a66c-ca140e327a52.png)
 ![image](https://user-images.githubusercontent.com/72643996/189944286-796acbf2-7b2e-4b79-bba2-be8baa776161.png)
-![image](https://user-images.githubusercontent.com/72643996/189944300-9b0dde22-0944-47b2-ad82-e1ae601b0d2d.png)
+![image](https://user-images.githubusercontent.com/72643996/189948398-3787f718-4b3b-4137-8c5a-91670c7ce859.png)
 
 暫且得到相對應的回覆；後續問題因為牽扯纜線與設備供應商，且非校方能力管轄範圍，故問題只能擱置並未解決
 
